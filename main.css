@@ -58,3 +58,8 @@ h2 + ol {
 aside ul {
   list-style-type: circle;
 }
+
+footer a {
+  color: #8f2440;
+  text-decoration: none;
+}
