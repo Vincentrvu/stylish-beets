@@ -68,6 +68,10 @@ h2 + ol {
   font-style: italic;
 }
 
+dl dt {
+  font-weight: normal;
+}
+
 aside ul {
   list-style-type: circle;
 }
