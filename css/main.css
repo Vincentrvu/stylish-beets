@@ -17,9 +17,13 @@ h1, h2 {
   font-size: 1.5rem;
 }
 
+a {
+  color: #8f2440;
+}
+
 nav a {
   font-family: "PT Sans", sans-serif;
-  color: #8f2440;
+
   font-size: 1.125rem;
   text-decoration: none;
 }
@@ -69,6 +73,5 @@ aside ul {
 }
 
 footer a {
-  color: #8f2440;
   text-decoration: none;
 }
